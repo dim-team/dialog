@@ -1,0 +1,11 @@
+{
+   "name": "dialog",
+   "version": "1.0.0",
+   "description": "dialog module",
+   "main": "dialog.js",
+   "files": [
+     "dialog.js",
+     "dialog.css",
+     "loading.gif"
+   ]
+}
